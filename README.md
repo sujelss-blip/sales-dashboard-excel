@@ -25,7 +25,7 @@ This dashboard analyzes sales performance across regions and categories, helping
 
 - Sample Superstore dataset  
 - Includes sales, profit, and product category data  
-- Commonly used for data analysis and visualization projects  
+- Widely used for data analysis and visualization projects
 
 ## 📈 Key Features
 
@@ -39,19 +39,10 @@ This dashboard analyzes sales performance across regions and categories, helping
 
 ## 🛠 Tools Used
 
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Basic data modeling
-
----
-
-## 📊 Insights
-
-- Technology is the most profitable category
-- Furniture shows lower margins and occasional losses
-- Profitability varies significantly by region
+- Microsoft Excel (Pivot Tables, Pivot Charts, Slicers)
+- Data Analysis
+- Data Visualization
+- Basic Data Modeling
 
 ---
 
