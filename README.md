@@ -1,5 +1,7 @@
 # 📊 Sales Performance Dashboard (Excel)
+## 📊 Sales Performance Dashboard (Excel)
 
+![Dashboard](Sales%20Performance%20by%20Region%20and%20Category.png)
 Interactive sales dashboard built in Excel using Pivot Tables, Pivot Charts, and Slicers.
 
 ---
