@@ -10,12 +10,22 @@ Interactive sales dashboard built in Excel using Pivot Tables, Pivot Charts, and
 - The West region leads in both sales and profit.
 - Profit margins vary significantly across categories, highlighting inefficiencies.
 ---
+### ❓ Business Questions Answered
 
+- Which region generates the highest sales and profit?
+- Which categories are driving losses?
+- Where are profit margins the lowest?
+- Which region is the most efficient?
 ## 🚀 Overview
 
 This dashboard analyzes sales performance across regions and categories, helping identify profitability trends and loss-making products.
 
 ---
+### 📂 Dataset
+
+- Sample Superstore dataset  
+- Includes sales, profit, and product category data  
+- Commonly used for data analysis and visualization projects  
 
 ## 📈 Key Features
 
@@ -24,7 +34,7 @@ This dashboard analyzes sales performance across regions and categories, helping
 - Profit analysis by category
 - Regional performance comparison
 - Identification of profitable vs loss-making products
-
+- Dataset size: ~10,000+ records
 ---
 
 ## 🛠 Tools Used
