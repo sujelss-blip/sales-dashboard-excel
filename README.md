@@ -3,7 +3,12 @@
 
 ![Dashboard](Sales%20Performance%20by%20Region%20and%20Category.png)
 Interactive sales dashboard built in Excel using Pivot Tables, Pivot Charts, and Slicers.
+### 🔍 Key Insights
 
+- Technology is the most profitable category across all regions.
+- Furniture consistently generates losses, especially in the Central and South regions.
+- The West region leads in both sales and profit.
+- Profit margins vary significantly across categories, highlighting inefficiencies.
 ---
 
 ## 🚀 Overview
